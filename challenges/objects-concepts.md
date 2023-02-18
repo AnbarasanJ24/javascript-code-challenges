@@ -367,6 +367,7 @@ if (typeof Object.create !== 'function') {
 ```
 
 ###### References
+- https://gist.github.com/roboticstone/bf537252607286aa8ef6
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
 
 <br />
